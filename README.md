@@ -6,7 +6,7 @@
 
 1. Ishay Wirthiem - ISW26@pitt.edu
 2. Max Pegher - MCP158@pitt.edu
-3. Oliver Gan - OLG6@pitt.edu
+3. Oliver Gan - OLG68@pitt.edu
 
 ##Description and links to datasets
 
