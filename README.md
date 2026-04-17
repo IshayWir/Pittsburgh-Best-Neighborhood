@@ -14,3 +14,6 @@
 2. Max - Link: [Dataset](https://data.wprdc.org/dataset/pgh/resource/14501cb9-308d-49ce-8bbb-7933ad703fe1). Description: 2010 Pittsburgh SNAP census data about land/natural disasters and greenery in the many neighborhoods of Pittsburgh.
 3. Oliver Link: [Dataset](https://data.wprdc.org/dataset/city-trees). Description: 2020 Pittsburgh City trees data covering tree species (scientific and common name), geographic coordinates, street address, neighborhood, land use, tree condition, grow space, economic benefits in dollars, and detailed breakdowns of economic benefit categories.
 
+## One Sentence Summary
+
+This repository is a deep-dive into many aspects of neighborhoods in Pittsburgh that people consider important, with the goal to figure out the best neighborhood in Pittsburgh.
